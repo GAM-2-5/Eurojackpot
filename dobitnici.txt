@@ -1,3 +1,6 @@
                Dobitnici
 
 Korisničko ime           Pogođena kombinacija
+
+mate                         4+0
+
