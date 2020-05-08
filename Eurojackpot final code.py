@@ -55,6 +55,7 @@ if br0 >= 4:#korisnik koji je pogodio 4 broja njegovo će ime biti zapisano u da
       dob.write("\n")
       dob.write(ime)
       dob.write("                         "+"{}+{}".format(br0,br1))
+      dob.write("\n")
       dob.close()
 
 izvuceniBrojevi.sort() # sortiranje liste rastućim redoslijedom radi lakšeg pregleda
